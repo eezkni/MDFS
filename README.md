@@ -16,11 +16,11 @@ Deep learning-based methods have significantly influenced the blind image qualit
 
 ### Framework
 <!-- ![image-20240524](./imgs/MDFS_framework.png) -->
-<div align=center><img src="./imgs/MDFS_framework.png" width = "90%" height = "90%" /></div>
+<div align=center><img src="./imgs/MDFS_framework.png" width = "100%" height = "100%" /></div>
 
 
 ### Experimental Results
-<div align=center><img src="./imgs/performance.jpg" width = "90%" height = "90%" /></div>
+<div align=center><img src="./imgs/performance.jpg" width = "100%" height = "100%" /></div>
 
 
 ## Quick Start
