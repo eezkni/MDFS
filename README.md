@@ -1,6 +1,7 @@
 # Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics
 
-**The IEEE Transactions on Multimedia**
+<!-- **The IEEE Transactions on Multimedia (T-MM)** -->
+#### IEEE Transactions on Multimedia (T-MM)
 
 [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://github.com/dingkeyan93)<sup>3</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>4</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>2</sup>
 
