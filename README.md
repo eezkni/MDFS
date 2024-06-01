@@ -20,7 +20,7 @@ Deep learning-based methods have significantly influenced the blind image qualit
 
 
 ### Experimental Results
-<div align=center><img src="./imgs/performance.jpg" width = "80%" height = "80%" /></div>
+<div align=center><img src="./imgs/performance.jpg" width = "90%" height = "90%" /></div>
 
 
 ## Quick Start
