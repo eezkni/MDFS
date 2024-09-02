@@ -55,9 +55,10 @@ If you find our work useful, please cite it as
 ```
 @article{ni2024opinion,
   title={Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics},
-  author={Zhangkai Ni, Yue Liu, Keyan Ding, Wenhan Yang, Hanli Wang, and Shiqi Wang},
+  author={Ni, Zhangkai and Liu, Yue and Ding, Keyan and Yang, Wenhan and Wang, Hanli and Wang, Shiqi},
   journal={IEEE Transactions on Multimedia},
-  year={2024}
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
