@@ -1,6 +1,5 @@
 # Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics
 
-<!-- **The IEEE Transactions on Multimedia (T-MM)** -->
 #### IEEE Transactions on Multimedia (T-MM)
 
 [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://github.com/dingkeyan93)<sup>3</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>4</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>2</sup>
@@ -25,19 +24,19 @@ Deep learning-based methods have significantly influenced the blind image qualit
 
 
 ## Quick Start
-
 ### Requirements:
 
 - Python>=3.6
 - Pytorch>=1.0
 
-### Train:
 
+### Train:
 - Download the dataset and put it in the `data` folder. The training data can be downloaded from [here](https://drive.google.com/file/d/1pNTjX5zdwdEzz8yAzTMcx5cvGF_v2k0R/view?usp=sharing). Then run the following command:
 
 ```python
 python train.py
 ```
+
 
 ### Test:
 
@@ -62,12 +61,11 @@ If you find our work useful, please cite it as
 }
 ```
 
-## Contact
 
+## Contact
 Thanks for your attention! If you have any suggestion or question, feel free to leave a message here or contact Dr. Zhangkai Ni (eezkni@gmail.com).
 
 
 ## License
-
 [MIT License](https://opensource.org/licenses/MIT)
 
