@@ -6,7 +6,7 @@
 
 <sup>1</sup>Tongji University, <sup>2</sup>City University of Hong Kong, <sup>3</sup>Zhejiang University, <sup>4</sup>Peng Cheng Laboratory
 
-This repository provides the official PyTorch implementation for the paper “Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics”, IEEE Transactions on Multimedia (TMM). [Paper](https://www.arxiv.org/abs/2405.18790)
+This repository provides the official PyTorch implementation for the paper “Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics”, IEEE Transactions on Multimedia (TMM), vol. 26, pp. 10211-10224, May 2024. [Paper](https://www.arxiv.org/abs/2405.18790)
 
 ![Teaser](./imgs/MDFS_framework.png)
 
