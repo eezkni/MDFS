@@ -1,12 +1,27 @@
-# Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics
+<div align="center">
+  <h1>Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics</h1>
+</div>
 
-#### IEEE Transactions on Multimedia (T-MM)
+<h4 align="center"> 
 
 [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://github.com/dingkeyan93)<sup>3</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>4</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>2</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>City University of Hong Kong, <sup>3</sup>Zhejiang University, <sup>4</sup>Peng Cheng Laboratory
 
-This repository provides the official PyTorch implementation for the paper “Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics”, IEEE Transactions on Multimedia (TMM), vol. 26, pp. 10211-10224, May 2024. [Paper](https://www.arxiv.org/abs/2405.18790)
+IEEE Transactions on Multimedia (TMM), 2024
+</h4>
+
+
+<!-- # Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics
+
+#### IEEE Transactions on Multimedia (T-MM)
+
+[Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>2</sup>, [Keyan Ding](https://github.com/dingkeyan93)<sup>3</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>4</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>2</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>City University of Hong Kong, <sup>3</sup>Zhejiang University, <sup>4</sup>Peng Cheng Laboratory -->
+
+This repository provides the official PyTorch implementation for the paper “Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics”, IEEE Transactions on Multimedia (TMM), vol. 26, pp. 10211-10224, May 2024. [Paper-official](https://ieeexplore.ieee.org/document/10539337) | [Paper-arXiv](https://www.arxiv.org/abs/2405.18790)
+
 
 ![Teaser](./imgs/MDFS_framework.png)
 
