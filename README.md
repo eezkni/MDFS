@@ -35,8 +35,8 @@ Deep learning-based methods have significantly influenced the blind image qualit
 
 
 ### Experimental Results
-<!-- <div align=center><img src="./imgs/performance.png" width = "100%" height = "100%" /></div> -->
-<div align=center><img src="./imgs/performance.png" width = "800" /></div>
+<div align=center><img src="./imgs/performance.png" width = "100%" height = "100%" /></div>
+<!-- <div align=center><img src="./imgs/performance.png" width = "800" /></div> -->
 
 ## Quick Start
 ### Requirements:
@@ -68,9 +68,11 @@ If you find our work useful, please cite it as
 
 ```
 @article{ni2024opinion,
-  title={Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics},
+  title={Opinion-unaware blind image quality assessment using multi-scale deep feature statistics},
   author={Ni, Zhangkai and Liu, Yue and Ding, Keyan and Yang, Wenhan and Wang, Hanli and Wang, Shiqi},
   journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={10211--10224},
   year={2024},
   publisher={IEEE}
 }
